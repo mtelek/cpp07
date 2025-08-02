@@ -38,6 +38,7 @@
 *.app
 whatever
 iter
+array
 
 # debug information files
 *.dwo
